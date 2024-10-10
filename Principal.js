@@ -1,3 +1,4 @@
-var titulo = document.querySelector("h1");
-			
-titulo.textContent = "Aparencia Nutricionista"
+var titulo = document.querySelector(".titulo")
+titulo.textContent = ("aparecida nutricionista")
+
+var paciente = document.querySelector("#primeiro-paciente")
